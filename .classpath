@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre7">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v7.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="E:/jsp-api-2.1.jar"/>
+	<classpathentry kind="lib" path="E:/mysql-connector-java-5.0.5.jar"/>
+	<classpathentry kind="lib" path="E:/com.mysql.jdbc_5.1.5.jar"/>
+	<classpathentry kind="lib" path="E:/ettShoppingFiles/log4j.jar"/>
+	<classpathentry kind="lib" path="E:/ettShoppingFiles/log4j-api-2.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Surendra/Desktop/mailactivation/activation.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Surendra/Desktop/mailactivation/mail.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
